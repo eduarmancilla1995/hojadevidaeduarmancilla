@@ -1,0 +1,23 @@
+h1 {
+color: brown;
+}
+h2 {
+    color: brown;
+}
+h4 {
+    color: blue;
+}
+    
+div h1, div h3 {
+    color: blueviolet;
+}
+h3 {
+    color: blue;
+}
+h1 {
+    border: 2px black solid;
+}
+td {
+    border-style:double;
+    border-color: brown;
+}
